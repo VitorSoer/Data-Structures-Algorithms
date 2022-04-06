@@ -1,5 +1,5 @@
 <div align="center" >
-  <h1> Data-Structures-Algorithms</h1>
+  <h1>👩‍💻 Data Structures And Algorithms 👨‍💻</h1>
   <!--Gifs-->
   <img src="/Just-A-Gif-Folder/bug-2.gif" width="355em" title="Starting the project..." height="200em" alt="Meu Banner..."/>
   <img src="/Just-A-Gif-Folder/bug.gif" width="355em" title="Ending..." height="200em" alt="Meu Banner..."/>
